@@ -3,6 +3,8 @@ const nextConfig = {
   // Disable all development indicators
   devIndicators: false,
 
+  basePath:'/fluid-calendar',
+  
   // Enable standalone output for Docker deployment
   output: "standalone",
 
